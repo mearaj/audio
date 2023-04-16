@@ -1,0 +1,13 @@
+eliasnaur.com/font v0.0.0-20220124212145-832bb8fc08c3 h1:djFprmHZgrSepsHAIRMp5UJn3PzsoTg9drI+BDmif5Q=
+gioui.org v0.0.0-20230206180804-32c6a9b10d0b h1:ghRvtb24ItyA7QffjaG38gH5f7bzagcz0OPq3T3FyHI=
+gioui.org/cpu v0.0.0-20220412190645-f1e9e8c3b1f7 h1:tNJdnP5CgM39PRc+KWmBRRYX/zJ+rd5XaYxY5d5veqA=
+gioui.org/shader v1.0.6 h1:cvZmU+eODFR2545X+/8XucgZdTtEjR3QWW6W65b0q5Y=
+git.wow.st/gmp/jni v0.0.0-20210610011705-34026c7e22d0 h1:bGG/g4ypjrCJoSvFrP5hafr9PPB5aw8SjcOWWila7ZI=
+github.com/benoitkugler/textlayout v0.3.0 h1:2ehWXEkgb6RUokTjXh1LzdGwG4dRP6X3dqhYYDYhUVk=
+github.com/benoitkugler/textlayout-testdata v0.1.1 h1:AvFxBxpfrQd8v55qH59mZOJOQjtD6K2SFe9/HvnIbJk=
+github.com/go-text/typesetting v0.0.0-20230212093906-959574cbf271 h1:B6f6ifrI1CZvYE55awJQ2PFvLqbzhRXyRMYzbvgDMGo=
+golang.org/x/exp v0.0.0-20230213192124-5e25df0256eb h1:PaBZQdo+iSDyHT053FjUCgZQ/9uqVwPOcl7KSWhKn6w=
+golang.org/x/exp/shiny v0.0.0-20230213192124-5e25df0256eb h1:gdeQX7xJSkTNF+Sw7++XNIOo4pGL0CjQv3N2Vm1Erxk=
+golang.org/x/image v0.4.0 h1:x1RWAiZIvERqkltrFjtQP1ycmiR5pmhjtCfVOtdURuQ=
+golang.org/x/sys v0.5.0 h1:MUK/U/4lj1t1oPg0HfuXDN/Z1wv31ZJ/YcPiGccS4DU=
+golang.org/x/text v0.7.0 h1:4BRB4x83lYWy72KwLD/qYDuTu7q9PjSagHvijDw7cLo=
